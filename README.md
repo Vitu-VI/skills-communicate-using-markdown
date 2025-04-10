@@ -45,7 +45,7 @@ _Welcome to "Communicate using Markdown"! :wave:_
 
 #### How it looks
 
-# This is an `<h1>` header, which is the largest
+#### This is an `<h1>` header, which is the largest
 
 ## This is an `<h2>` header
 
@@ -73,6 +73,7 @@ _Welcome to "Communicate using Markdown"! :wave:_
 -->
 
 ---
+I made 'This is an `<h1>` header, which is the largest' look small.
 
 Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/communicate-using-markdown) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
 
